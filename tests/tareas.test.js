@@ -105,16 +105,6 @@ test("Ejemplo 3: grupo sin gastos", () => {
   });
 });
 
-// ══════════════════════════════════════════════════════════════════════════
-// A partir de aquí, la funcionalidad que TODAVÍA NO EXISTE.
-// Esto es lo que el bucle-goal tiene que conseguir que pase en la Fase 3.
-//
-// ⚠️ PLANTILLA — sustituye este bloque por los tests reales en cuanto abras
-// el sobre cerrado. El requisito nuevo lo decide el cliente en clase; no se
-// conoce de antemano. Escribe tú estos tests EN ROJO antes de tocar
-// lib/gastos.js, tal como indica la Fase 3 del reto.
-// ══════════════════════════════════════════════════════════════════════════
-
 // test("<nombre descriptivo del requisito nuevo>", () => {
 //   // 1. Preparar el grupo/gasto de partida con las funciones ya existentes.
 //   // 2. Llamar a la función nueva o al comportamiento ampliado.
