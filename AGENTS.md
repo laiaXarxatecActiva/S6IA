@@ -70,7 +70,9 @@ brief parece pedir un cambio, se refleja primero en `SPEC.md` y luego en el cód
    Sin commits sueltos directamente en `main`.
 4. Todo cambio pasa por PR — revisado antes de mergear, nunca autofusionado sin que
    tú hayas leído el `git diff`.
-5. `node --test` en verde antes de abrir el PR y antes de mergear.
+5. Use `node goal` or `node goal:seco` for Fase 3 goals
+  - Use `node validar` to validate changes before commit
+  - Use `node test` to run all tests
 
 ## Fase 3 — sobre cerrado
 
