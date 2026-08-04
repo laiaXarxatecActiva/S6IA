@@ -19,14 +19,14 @@ gh auth status
 
 ## Qué hay aquí
 
-| Fichero | Para qué |
-|---|---|
-| `BRIEF.md` | El encargo del cliente. **Léelo dos veces.** De aquí sale tu `SPEC.md` |
-| `validar.mjs` | Comprueba tú mismo si tu entrega cumple. Lánzalo cuantas veces quieras |
-| `bucle-goal.mjs` | El bucle de objetivo de la sesión 5, listo para usar |
-| `.opencode/agents/goal.md` | El agente del bucle, con los tests protegidos |
-| `plantillas/GOAL.md` | La plantilla de objetivo de 6 puntos |
-| `ENTREGA.md` | Tu autoinforme. Se entrega relleno |
+| Fichero                    | Para qué                                                               |
+| -------------------------- | ---------------------------------------------------------------------- |
+| `BRIEF.md`                 | El encargo del cliente. **Léelo dos veces.** De aquí sale tu `SPEC.md` |
+| `validar.mjs`              | Comprueba tú mismo si tu entrega cumple. Lánzalo cuantas veces quieras |
+| `bucle-goal.mjs`           | El bucle de objetivo de la sesión 5, listo para usar                   |
+| `.opencode/agents/goal.md` | El agente del bucle, con los tests protegidos                          |
+| `plantillas/GOAL.md`       | La plantilla de objetivo de 6 puntos                                   |
+| `ENTREGA.md`               | Tu autoinforme. Se entrega relleno                                     |
 
 ## Lo que TÚ tienes que crear
 
@@ -46,3 +46,5 @@ node validar.mjs   # la checklist de entrega
 
 `validar.mjs` **no te pone nota**: comprueba que no te has dejado nada. Que salga todo
 en verde no significa que el código sea correcto — eso lo dicen otros tests que hoy no ves.
+
+### 
